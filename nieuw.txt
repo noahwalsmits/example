@@ -3,3 +3,7 @@ Dit is een nieuw bestand.
 Dit is nog een extra regel.
 
 Nog een wijziging.
+
+function test () {
+  print("Looks like javascript!");
+}
